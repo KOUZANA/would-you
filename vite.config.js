@@ -4,6 +4,6 @@ import { defineConfig } from 'vite'
 export default defineConfig({
   plugins: [react()],
   server: {
-    allowedHosts: ['would-you-2.onrender.com'],
+    allowedHosts: ['would-you-do.onrender.com'],
   },
 })
